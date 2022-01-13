@@ -60,6 +60,8 @@ public static void main(String[] args) {
 
 * If you ever want to leave the server just run `exit`
 
+---
+
 ![](lslatexamp.png)\
 example of ls -lat command in server
 
