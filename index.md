@@ -7,8 +7,6 @@ rat
 
 * zero
 * one
-* two
-* three
 
 `wow!` wow
 
