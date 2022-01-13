@@ -2,11 +2,11 @@
 
 * You first want to head over to --> [vscode website](https://code.visualstudio.com) to download vscode
 
-![](https://github.com/HyperBlitzer/cse15l-lab-reports/blob/main/vsdownloadcircle.jpg)
+![vscodepage](https://github.com/HyperBlitzer/cse15l-lab-reports/blob/main/vsdownloadcircle.jpg)
 
 * You then want to open up visual studio code which looks like when opened:
 
-![](https://github.com/HyperBlitzer/cse15l-lab-reports/blob/main/vscodeactual.png)
+![vscodewindow](https://github.com/HyperBlitzer/cse15l-lab-reports/blob/main/vscodeactual.png)
 
 * Create a folder on your desktop named **CSE15L**
 * Then open that folder in vscode (under `open file...`)
@@ -26,7 +26,7 @@ public static void main(String[] args) {
 * At the top of vscode, click **Terminal** and then **New Terminal**. This is where we will be inputting our commands to connect to the server.
 * Your vscode should look something like:
 
-![](https://github.com/HyperBlitzer/cse15l-lab-reports/blob/main/codeplusterminal.png)
+![terminal](https://github.com/HyperBlitzer/cse15l-lab-reports/blob/main/codeplusterminal.png)
 
 # Remotely Connecting
 
@@ -49,7 +49,7 @@ public static void main(String[] args) {
 
 * Create a new terminal. You now have one terminal connected to the server *ssh* and another that is running on your computer *powershell*
 
-![](https://github.com/HyperBlitzer/cse15l-lab-reports/blob/main/diffterms.png)
+![differenterminals](https://github.com/HyperBlitzer/cse15l-lab-reports/blob/main/diffterms.png)
 
 * Try these commands on both the server and client terminals
 * `cd ~`
