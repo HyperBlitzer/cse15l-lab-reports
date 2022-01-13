@@ -11,7 +11,6 @@ rat
 * three
 `wow!` wow
 [roblox link](https://www.roblox.com/home)
-![Image](https://cdn.idntimes.com/content-images/duniaku/post/20210226/8-0930d22cd3c6be8b3a469ef8d2c5ef59-1a632f682515312b134ca1fb0f3f52f9.jpg)
 
 1. three
 2. two
@@ -24,3 +23,4 @@ This is
 a chunk
 of text
 ```
+![Image](https://cdn.idntimes.com/content-images/duniaku/post/20210226/8-0930d22cd3c6be8b3a469ef8d2c5ef59-1a632f682515312b134ca1fb0f3f52f9.jpg)
