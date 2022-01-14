@@ -70,9 +70,23 @@ example of pwd command in client
 
 # Moving Files with scp
 
+* Go ahead and quit the server
 
+* Now we are going to copy the *connecting.java* file over to the server
 
+* In the terminal run this command: **(remember to change AAA to your specific letters)**
 
+`scp connecting.java cs15lwi22AAA@ieng6.ucsd.edu:~/` 
+
+![image of 1 file copied]()
+
+* Reconnect to the ieng6 server normally with `ssh` and check the files with the `ls` command.
+
+![]()
+
+* In the server run the file with `javac` and `java`
+
+![]()
 
 # Setting an SSH Key
 
