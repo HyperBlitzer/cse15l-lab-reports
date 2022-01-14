@@ -122,6 +122,6 @@ example of pwd command in client
 
 * you can use semicolons **;** to run multiple commands in one line
 
-![](semiclonexamp.png)
+![](semicolonexamp.png)
 
 ## Good Job! You are finished!
