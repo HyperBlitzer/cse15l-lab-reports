@@ -82,7 +82,7 @@ example of pwd command in client
 
 * Reconnect to the ieng6 server normally with `ssh` and check the files with the `ls` command.
 
-![](runningls.png)
+![](runningls.jpg)
 
 * In the server run the file with `javac` and `java`
 
