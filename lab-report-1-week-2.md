@@ -90,9 +90,29 @@ example of pwd command in client
 
 # Setting an SSH Key
 
+* We will now generate an SSH Key to make connecting to the server more streamlined
+* Run the `ssh-keygen` command
+* When it asks for the file location, just hit enter
+* Enter any passphrase that you will rememeber
 
+![](keygen.png)
 
+* **ONLY DO THIS STEP ON WINDOWS!**
+* Run vscode as **ADMIN** 
+* run `Get-Service ssh-agent | Set-Service -StartupType Manual`
+* run `Start-Service ssh-agent`
+* run `Get-Service ssh-agent`
 
+* You will now run `ssh-add \Users\USERNAME/.ssh/id_rsa` but replace `USERNAME` with your username
+* Enter the passphrase you used to create the keygen
+
+![](getservice.png)
+
+* Reconnect into the server and run `mkdir .ssh`
+
+* To copy the key over to the server you will run `scp \Users\USERNAME/.ssh/id_rsa cs15lwi22AAA@ieng6.ucsd.edu:~/.ssh/authorized_keys` in your client
+
+![](copyingkeyover.png)
 
 # Optimizing Remote Running
 
