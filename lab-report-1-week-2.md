@@ -78,15 +78,15 @@ example of pwd command in client
 
 `scp connecting.java cs15lwi22AAA@ieng6.ucsd.edu:~/` 
 
-![image of 1 file copied]()
+![](copyingfile.png)
 
 * Reconnect to the ieng6 server normally with `ssh` and check the files with the `ls` command.
 
-![]()
+![](runningls.png)
 
 * In the server run the file with `javac` and `java`
 
-![]()
+![](runningfile.png)
 
 # Setting an SSH Key
 
