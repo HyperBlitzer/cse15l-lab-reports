@@ -70,7 +70,7 @@ example of pwd command in client
 
 # Moving Files with scp
 
-* Go ahead and quit the server
+* Go ahead and logout of the server
 
 * Now we are going to copy the *connecting.java* file over to the server
 
@@ -89,6 +89,7 @@ example of pwd command in client
 ![](runningfile.png)
 
 # Setting an SSH Key
+
 
 
 
