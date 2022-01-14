@@ -118,10 +118,10 @@ example of pwd command in client
 
 * after an `ssh` command, you can include another command in **quotes** " " to run commands much faster
 
-![]()
+![](sshquotes.png)
 
 * you can use semicolons **;** to run multiple commands in one line
 
-![]()
+![](semiclonexamp.png)
 
-
+## Good Job! You are finished!
