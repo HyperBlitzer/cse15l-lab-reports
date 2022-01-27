@@ -4,6 +4,8 @@
 
 ![screenshot](fixtest2.png)
 
+![error](testcase2error.png)
+
 ---
 
 # Code Change 2
@@ -12,6 +14,8 @@
 
 ![screenshot2](fixtest3.png)
 
+![error](testcase3error.png)
+
 ---
 
 # Code Change 3
@@ -19,5 +23,7 @@
 [Link To Test File 4](https://github.com/HyperBlitzer/markdown-parse/blob/main/test-file4.md)
 
 ![screenshot3](fixtest4.png)
+
+![error](testcase4error.png)
 
 ---
