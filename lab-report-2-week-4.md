@@ -10,6 +10,13 @@
 - code to fix the failure
 
 ![screenshot](fixtest2.png)
+
+### Relationship with Bug, Symptom, and Failure-Inducing Input
+
+- The **input** that broke the code included text after the link
+- The **symptom** was that the getLinks method went on an infinite loop since index kept resetting to 0
+- The **bug** was that there was no way to check if a bracket or parenthesis was not found
+
 ---
 
 # Code Change 2
@@ -25,6 +32,12 @@
 
 ![screenshot2](fixtest3.png)
 
+### Relationship with Bug, Symptom, and Failure-Inducing Input
+
+- The **input** that broke the code used markdown syntax for an image instead of a link
+- The **symptom** was that getLinks returned the image file name
+- The **bug** was that there was no way to check if an exclamation point preceded the opening bracket
+
 ---
 
 # Code Change 3
@@ -39,5 +52,11 @@
 - code to fix the failure
 
 ![screenshot3](fixtest4.png)
+
+### Relationship with Bug, Symptom, and Failure-Inducing Input
+
+- The **input** that broke the code contained an image reference inbetween two files 
+- The **symptom** was that getLinks only got the first link
+- The **bug** was that if getLinks found something that **was not** a link, it would end the while loop
 
 ---
