@@ -1,23 +1,23 @@
 # Code Change 1
 
-[test-file2]()
+[Link To Test File 2](https://github.com/HyperBlitzer/markdown-parse/blob/main/test-file2.md)
 
-![screenshot]()
+![screenshot](fixtest2.png)
 
 ---
 
 # Code Change 2
 
-[test-file3]()
+[Link To Test File 3](https://github.com/HyperBlitzer/markdown-parse/blob/main/test-file3.md)
 
-![screenshot2]()
+![screenshot2](fixtest3.png)
 
 ---
 
 # Code Change 3
 
-[test-file4]()
+[Link To Test File 4](https://github.com/HyperBlitzer/markdown-parse/blob/main/test-file4.md)
 
-![screenshot3]()
+![screenshot3](fixtest4.png)
 
 ---
