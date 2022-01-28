@@ -124,4 +124,21 @@ example of pwd command in client
 
 ![](semicolonexamp.png)
 
+* add `System.out.println("Remote Running");` under the first println in *connecting.java*
+* Now we are going to copy that file over to the server using the least amount of keystrokes
+
+* In the command line press the up arrow until you see the previous `scp` command that copied over the *connecting.java* file
+* This should be 4 keystrokes pressed for that command plus 1 for the enter key
+
+![](scpsaving.png)
+
+* Using up arrow and down arrow is a way to save time in the command line
+
+* Use the arrows again to use the last `ssh` command we used but remove `"ls"` and add `javac connecting.java; java connecting`
+* This should be around 30-40 keystrokes in total for something that would normally take around 80-100 keystrokes saving valuable time
+
+![](sshsaving.png)
+
+* You have now saved time by using up arrows for getting previously used commands along with `;` and `" "` inbetween commands while ssh'ing to save more time
+
 ## Good Job! You are finished!
