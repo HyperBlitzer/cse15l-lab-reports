@@ -130,7 +130,7 @@ example of pwd command in client
 * In the command line press the up arrow until you see the previous `scp` command that copied over the *connecting.java* file
 * This should be 4 keystrokes pressed for that command plus 1 for the enter key
 
-![](scpsaving.png)
+![](scpsaving.jpg)
 
 * Using up arrow and down arrow is a way to save time in the command line
 
