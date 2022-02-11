@@ -1,6 +1,6 @@
 # Streamlining ssh configuration (Windows)
 
-### Creating the .ssh config file
+### [Creating the .ssh config file]
 
 - We are going to learn how to easily ssh into the server without typing `cs15lwi22zzz@ieng6.ucsd.edu`
 
@@ -23,7 +23,7 @@
 
 - Save and now change the name of the file from *config.txt* to just *config*
 
-### ssh'ing with the new alias
+### [Ssh'ing with the new alias]
 
 - Head over to vscode and make a new file called `testingconfig.java`
 
@@ -31,7 +31,7 @@
 
 ![image](https://user-images.githubusercontent.com/90485689/153549687-7a5749f3-67e8-4716-a9ad-5e158cdcfeff.png)
 
-### scp'ing with the new alias
+### [Scp'ing with the new alias]
 
 - exit out of the server and add this code to your `testingconfig.java` file:
 
